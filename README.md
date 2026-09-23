@@ -1,4 +1,4 @@
-Penjelasan Kode Program
+**Penjelasan Kode Program**
 
 Ini adalah definisi fungsi bagian ini membuat fungsi bernama hitung_biaya_hotel dengan dua parameter, yaitu jenis_kamar dan durasi_malam.
 
@@ -23,5 +23,6 @@ Fungsi dipanggil dengan memasukkan data jenis_kamar_dipesan dan lama_inap, perin
 
 ini adalah hasil output di terminal dari pemrograman di atas
 yang menampilkan jenis kamar, Tanggal checkin, Tanggal check-out, Lama menginap, Total Biaya  
+
 <img width="1269" height="325" alt="output" src="https://github.com/user-attachments/assets/5a86d493-fac5-41d0-aece-a0b4998f0352" />
 
