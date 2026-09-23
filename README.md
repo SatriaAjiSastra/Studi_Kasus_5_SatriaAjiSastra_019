@@ -1,4 +1,5 @@
 **Penjelasan Kode Program**
+
 <img width="638" height="32" alt="p1" src="https://github.com/user-attachments/assets/59e646ea-a13a-476c-903b-a42d281f50b2" />
 
 Ini adalah definisi fungsi bagian ini membuat fungsi bernama hitung_biaya_hotel dengan dua parameter, yaitu jenis_kamar dan durasi_malam.
